@@ -19,6 +19,8 @@ wp-content/plugins/hello.php
 wp-content/themes/understrap/logs
 *.log
 wp-content/themes/understrap/npm-debug.log*
+*.DS_Store
+
 
 # Runtime data
 wp-content/themes/understrap/pids
