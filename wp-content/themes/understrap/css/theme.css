@@ -7052,3 +7052,16 @@ a.skip-link {
       border-radius: 30px; }
     .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
       background: #869791; }
+
+#slideshow {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1; }
+  #slideshow .slideshow-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: cover; }
